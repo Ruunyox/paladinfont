@@ -6,7 +6,7 @@ PaladinFont is a modification of
 ### Repertoire
 
 <p align='center'>
-<img src="repertoire.png" width="250" />
+<img src="repertoire.png" width="300" />
 </p>
 
 ### Code
