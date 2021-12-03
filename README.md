@@ -6,11 +6,11 @@ PaladinFont is a modification of
 ### Repertoire
 
 <p align='center'>
-<img src="repertoire.png" width="300" />
+<img src="repertoire.png"/>
 </p>
 
 ### Code
 
 <p align='center'>
-<img src="code.png" width="500" />
+<img src="code.png"/>
 </p>
